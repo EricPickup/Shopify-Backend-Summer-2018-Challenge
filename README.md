@@ -7,6 +7,7 @@ An optional coding challenge to complete when applying to Shopify for the Summer
 Instructions: https://backend-challenge-summer-2018.herokuapp.com/
 
 Main API endpoint: https://backend-challenge-summer-2018.herokuapp.com/challenges.json?id=1&page=1
+
 Extra challenge API endpoint: https://backend-challenge-summer-2018.herokuapp.com/challenges.json?id=2&page=1
 
 ### Prerequisites
