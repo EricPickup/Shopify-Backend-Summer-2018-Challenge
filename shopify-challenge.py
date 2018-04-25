@@ -105,7 +105,6 @@ for currentRoot in rootIDs:
 
 	#Otherwise, a cycle has been found. Store in invalid_menus
 	else:
-		#del listOfChildren[0]
 		data['invalid_menus'].append({
 			'root_id': currentRoot,
 			'children': list(visited.keys())
