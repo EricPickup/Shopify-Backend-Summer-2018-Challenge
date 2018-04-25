@@ -1,6 +1,6 @@
 # Shopify Summer 2018 Back-End Intern Challenge
 
-An optional coding challenge to complete when applying to Shopify for the Summer 2018 Back-End Development position.
+An optional coding challenge to complete when applying to Shopify for the Summer 2018 Back-End Development Intern position.
 
 ## The Challenge
 
